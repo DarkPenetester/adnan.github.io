@@ -1,0 +1,3 @@
+
+Main directory of Website is /admin.html
+SSC registration form dir /form.html

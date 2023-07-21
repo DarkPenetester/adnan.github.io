@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+a{
+    color:whitesmoke;
+    background-color:brown;
+    font-family: Arial, sans-serif;
+    font-size:x-large;
+    font-weight: 600;
+    display:inline-block;
+    margin-left:20px;
+    margin-top:20px;
+    text-decoration:none;
+    text-transform: capitalize;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:12px;
+    border:5px solid black;
+    
+}
+
